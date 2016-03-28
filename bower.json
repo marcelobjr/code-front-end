@@ -1,0 +1,33 @@
+{
+  "name": "siscentral-frontend",
+  "version": "0.0.1",
+  "description": "projeto frontend angularJs",
+  "main": "",
+  "authors": [
+    "Marcelo Barros <marcelo@siscentral.com.br>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/bower_componentes",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.3",
+    "angular-route": "1.5.3",
+    "angular-resource": "1.5.3",
+    "angular-animate": "1.5.3",
+    "angular-messages": "1.5.3",
+    "angular-bootstrap": "^1.2.5",
+    "angular-strap": "^2.3.7",
+    "bootstrap": "^3.3.6"
+  }
+}
